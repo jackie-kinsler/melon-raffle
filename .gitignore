@@ -1,5 +1,5 @@
 env
 .DS_Store
 *.pyc
-*__py_cache__
+*__pycache__*
 *solution*
